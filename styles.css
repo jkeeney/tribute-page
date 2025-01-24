@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-image: linear-gradient(#ddbd77 10%, #ffffff);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Verdana, Tahoma, Arial;
+}
+
+#title {
+    text-align: center;
+    color: #ffffff;
+}
+
+figure {
+    margin: 0px, auto;
+}
+
+#image {
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+figcaption {
+    background-color: #000000;
+    color: white;
+    font-size: 14px;
+    font-style: italic;
+    max-width: 300px;
+    padding: 2px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
